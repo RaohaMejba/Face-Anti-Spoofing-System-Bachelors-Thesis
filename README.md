@@ -60,9 +60,10 @@ Key components include:
 ##  Thesis Reference
 
 This system was developed as part of my undergraduate thesis:
-> **"Design and Implementation of Face Anti-Spoofing System"**  
+> **"Mitigating Ethnic Bias in Face Anti-Spoofing Systems Using MiniFASNet and the SARSpoof Dataset"**  
 > Department of Software Engineering, Yangzhou University  
-> Supervised by: Dr. Meiling Fang
+> Supervised by: Dr. Meiling Fang  
+> DOI: https://doi.org/10.5281/zenodo.17859790
 
 </br>
 
